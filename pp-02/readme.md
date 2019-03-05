@@ -21,8 +21,8 @@ Your Rationale: I chose a palette with a green primary and yellow/blue secondari
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=33x0E0kvxJGhdRlorMMGFu6Gik+
+Your Rationale: Nothing says "kid-friendly" more than a triad of primary colors, which definitely suits the idea of learning the alphabet. I went with a cool blue primary that is slightly saturated to make it easy on the eyes while highlighting main sections, then added vibrant red and yellow secondaries to help brighten the feel of the app.
 
 4. A custom color palette for advertising a course on cybersecurity
 
