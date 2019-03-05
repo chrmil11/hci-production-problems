@@ -16,8 +16,8 @@ Your Rationale: I went with a cool color because warm colors personally felt too
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52M0u0kkHpEtPIMp6uVbyvK70GU
+Your Rationale: I chose a palette with a green primary and yellow/blue secondaries to fit with the nature theme of the Chicago Botanical Gardens. I decided to go with saturated base colors to make it easier on the eyes to read text, but brighter variants as accents to help emphasize springtime.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
