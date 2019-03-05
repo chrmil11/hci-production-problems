@@ -26,5 +26,7 @@ Your Rationale: Nothing says "kid-friendly" more than a triad of primary colors,
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=b3n0z3L0kBMlZnoukvkrlLkgCUx9A
+Your Rationale: I wanted to try a complimentary palette that can help contrast main and side focuses. I chose darker tones of aqua blue and orange as the complimentary colors because they are colors that represent importance and change, respectively, which are both characteristics that definitely tie in to cybersecurity.
+
+(Side note: Yes I know I'm submitting this late but I still wanted to experiment with the palettes regardless)
