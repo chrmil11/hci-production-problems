@@ -23,6 +23,10 @@ unless you’ve already begun a repository on a group member’s computer. **Tha
 repository for Project 2.**
 
 3. List the names of your group members here:
+  * Abdulaziz Aldossari
+  * Richard Fagan
+  * Christopher Millan
+  * Natalie Herrmann
 
 4. Copy and paste the URL for your group’s GitHub organization here:
 
