@@ -28,9 +28,9 @@ repository for Project 2.**
   * Christopher Millan
   * Natalie Herrmann
 
-4. Copy and paste the URL for your group’s GitHub organization here:
+4. Copy and paste the URL for your group’s GitHub organization here: https://github.com/itmd362-arcn
 
-5. Copy and paste the URL for your group’s shared repository for Project Two here:
+5. Copy and paste the URL for your group’s shared repository for Project Two here: https://github.com/itmd362-arcn/itmd362-project-two
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
