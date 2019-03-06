@@ -35,7 +35,7 @@ repository for Project 2.**
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
-Write the URL for your personal fork of the repository here:
+Write the URL for your personal fork of the repository here: https://github.com/chrmil11/itmd362-project-two
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
