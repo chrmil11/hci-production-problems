@@ -1,4 +1,4 @@
-## ITMD 362, Production Problem 03: GitHub Group Repos and Pull Requests
+  ## ITMD 362, Production Problem 03: GitHub Group Repos and Pull Requests
 
 For this Production Problem, you and your group for Project 2 are going to establish your group
 within a GitHub Organization (see
@@ -56,4 +56,4 @@ strengths. Add and commit your own work, and push to your own repository (`git p
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here: https://github.com/itmd362-arcn/itmd362-project-two/pull/3
